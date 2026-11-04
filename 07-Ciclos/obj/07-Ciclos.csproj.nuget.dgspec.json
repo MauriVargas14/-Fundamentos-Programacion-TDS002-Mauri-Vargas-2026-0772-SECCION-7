@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\07-Ciclos\\07-Ciclos.csproj": {}
+    "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\07-Ciclos\\07-Ciclos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\07-Ciclos\\07-Ciclos.csproj": {
+    "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\07-Ciclos\\07-Ciclos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\07-Ciclos\\07-Ciclos.csproj",
+        "projectUniqueName": "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\07-Ciclos\\07-Ciclos.csproj",
         "projectName": "07-Ciclos",
-        "projectPath": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\07-Ciclos\\07-Ciclos.csproj",
+        "projectPath": "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\07-Ciclos\\07-Ciclos.csproj",
         "packagesPath": "C:\\Users\\thelo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\07-Ciclos\\obj\\",
+        "outputPath": "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\07-Ciclos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
