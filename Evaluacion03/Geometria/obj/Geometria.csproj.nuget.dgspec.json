@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\Evaluacion03\\Geometria\\Geometria.csproj": {}
+    "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\Evaluacion03\\Geometria\\Geometria.csproj": {}
   },
   "projects": {
-    "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\Evaluacion03\\Geometria\\Geometria.csproj": {
+    "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\Evaluacion03\\Geometria\\Geometria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\Evaluacion03\\Geometria\\Geometria.csproj",
+        "projectUniqueName": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\Evaluacion03\\Geometria\\Geometria.csproj",
         "projectName": "Geometria",
-        "projectPath": "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\Evaluacion03\\Geometria\\Geometria.csproj",
+        "projectPath": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\Evaluacion03\\Geometria\\Geometria.csproj",
         "packagesPath": "C:\\Users\\thelo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\Evaluacion03\\Geometria\\obj\\",
+        "outputPath": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\Evaluacion03\\Geometria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thelo\\AppData\\Roaming\\NuGet\\NuGet.Config"

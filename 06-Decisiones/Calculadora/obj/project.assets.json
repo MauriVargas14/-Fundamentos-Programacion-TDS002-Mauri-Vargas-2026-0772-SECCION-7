@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\Calificacion\\Calificacion.csproj",
-      "projectName": "Calificacion",
-      "projectPath": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\Calificacion\\Calificacion.csproj",
+      "projectUniqueName": "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\06-Decisiones\\Calculadora\\Calculadora.csproj",
+      "projectName": "Calculadora",
+      "projectPath": "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\06-Decisiones\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\thelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\Calificacion\\obj\\",
+      "outputPath": "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\06-Decisiones\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thelo\\AppData\\Roaming\\NuGet\\NuGet.Config"

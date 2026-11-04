@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\06-Decisiones\\06-Decisiones.csproj": {}
+    "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\06-Decisiones\\06-Decisiones.csproj": {}
   },
   "projects": {
-    "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\06-Decisiones\\06-Decisiones.csproj": {
+    "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\06-Decisiones\\06-Decisiones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\06-Decisiones\\06-Decisiones.csproj",
+        "projectUniqueName": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\06-Decisiones\\06-Decisiones.csproj",
         "projectName": "06-Decisiones",
-        "projectPath": "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\06-Decisiones\\06-Decisiones.csproj",
+        "projectPath": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\06-Decisiones\\06-Decisiones.csproj",
         "packagesPath": "C:\\Users\\thelo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\06-Decisiones\\obj\\",
+        "outputPath": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\06-Decisiones\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
