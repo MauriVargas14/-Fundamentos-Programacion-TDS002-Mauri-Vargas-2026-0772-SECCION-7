@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thelo\\01-HolaMundo\\01-HolaMundo.csproj",
+      "projectUniqueName": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\01-HolaMundo\\01-HolaMundo.csproj",
       "projectName": "01-HolaMundo",
-      "projectPath": "C:\\Users\\thelo\\01-HolaMundo\\01-HolaMundo.csproj",
+      "projectPath": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\01-HolaMundo\\01-HolaMundo.csproj",
       "packagesPath": "C:\\Users\\thelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thelo\\01-HolaMundo\\obj\\",
+      "outputPath": "C:\\Users\\thelo\\-Fundamentos-Programacion-TDS002-Mauri-Vargas-2026-0772-SECCION-7\\01-HolaMundo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
